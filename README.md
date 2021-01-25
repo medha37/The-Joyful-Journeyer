@@ -10,4 +10,4 @@ Installation instruction :
 3. Open the repository on your console.
 4. Enter the command : node app.js.
 5. The app starts running on the localhost:3000
-6. Go to the url : http://localhost:3000/ to give quiz.
+6. Go to the url : http://localhost:3000/ to read, write, update, edit & delete blogs.
