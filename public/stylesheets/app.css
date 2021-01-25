@@ -1,0 +1,68 @@
+i.icon{
+    font-size: 1.5em;
+}
+
+.container.main{
+    margin-top: 7.0em;
+}
+
+#submit{
+    color: black;
+}
+
+#submit:hover{
+  color:white;
+}
+#delete{
+    display: inline;
+}
+
+#indexImg{
+    max-height: 150px;
+}
+
+#showImg{
+    max-height: 300px;
+}
+
+/* a.item:hover{
+    color:blue;
+
+} */
+#aboutImage{
+    max-width: 500px;
+    max-height: 300px;
+    margin-left: 105px;
+    border-radius: 5%;
+}
+#aboutImage:hover{
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.3);
+    transition: 1s;
+}
+
+
+#readMore{
+    color:black;
+}
+
+#insta:hover{
+    transform: scale(1.5);
+    color:purple;
+}
+#linked:hover{
+    transform: scale(1.5);
+    color:blue;
+}#fb:hover{
+    transform: scale(1.5); 
+    color:skyblue;
+}
+#whatsapp:hover{
+    transform: scale(1.5);
+    color:green;
+}
+a:visited {
+color:black;
+}
+#git:hover{
+    transform: scale(1.5); 
+}
